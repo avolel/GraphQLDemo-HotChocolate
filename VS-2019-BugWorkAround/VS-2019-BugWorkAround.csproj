@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>VS_2019_BugWorkAround</RootNamespace>
+  </PropertyGroup>
+
+</Project>
